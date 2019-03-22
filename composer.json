@@ -1,0 +1,26 @@
+{
+    "name": "lukam/dad-jokes",
+    "description": "Everyone loves dad jokes. Now available as an artisan command.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luka-mladenovic",
+            "email": "luka@kreativika.si"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DadJokes\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DadJokes\\DadJokesServiceProvider"
+            ]
+        }
+    }
+}
