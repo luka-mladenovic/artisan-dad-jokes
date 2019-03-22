@@ -23,7 +23,7 @@ class Jokes
             "What’s brown and sticky? A stick.",
             "How many apples grow on a tree? All of them.",
             "How does an eskimo build his house? Igloos it together.",
-            "Why do crabs never give to charity? Because they’re shellfish.",
+            "Why do crabs never give to charity? Because they're shellfish.",
             "How much does a hipster weigh? An instagram.",
             "A Sandwich walks into a bar, the bartender says \"Sorry, we don't serve food here\".",
             "Why don't seagulls fly over the bay? Because then they'd be bay-gulls!",
